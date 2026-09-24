@@ -23,7 +23,7 @@ Ce dépôt regroupe tous mes labs pratiques, un fichier par chapitre, avec des �
 
 | Chapitre | Lab | Titre | Statut |
 |---|---|---|---|
-| 1 | 1.1 | Comparer les topologies réseau | ⬜ |
+| 1 | 1.1 | Comparer les topologies réseau | ✅ |
 | 1 | 1.2 | Câbler un mini-LAN en étoile | ⬜ |
 | 2 | 2.1 | Visualiser l'encapsulation OSI | ⬜ |
 | 2 | 2.2 | Faire correspondre OSI et TCP/IP sur une capture réelle | ⬜ |
