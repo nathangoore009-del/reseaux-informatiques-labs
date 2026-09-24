@@ -16,9 +16,9 @@ PAN, LAN, MAN, WAN ; topologies bus, étoile, anneau, maillée — chacune avec 
   5. Pour chaque topologie, supprimer un lien et lancer un `ping` entre deux PC pour observer l'impact.
   6. Noter dans un tableau : nombre de PC affectés, facilité de dépannage, complexité de câblage.
   7. Conclure : quelle topologie est la plus résiliente ? La plus simple à mettre en place ?
-- **Résultat obtenu / Vérification :**
+- **Résultat obtenu / Vérification :*[Voir le fichier Packet Tracer](lab-1-1-topologies.pkt)*
 - **Difficultés rencontrées :**
-- **Statut :** ⬜ À faire
+- **Statut :** ✅ Terminé
 
 ## 🧪 Lab 1.2 — Câbler un mini-LAN en étoile
 - **Objectif :** Monter un petit réseau en étoile autour d'un switch (physiquement ou en VM).
