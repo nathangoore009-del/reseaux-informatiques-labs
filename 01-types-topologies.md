@@ -30,9 +30,9 @@ PAN, LAN, MAN, WAN ; topologies bus, étoile, anneau, maillée — chacune avec 
   4. Vérifier la connectivité avec `ping` entre chaque paire de PC.
   5. Observer les voyants du switch qui s'allument à chaque connexion active.
   6. Documenter le schéma du réseau réalisé (photo ou schéma).
-- **Résultat obtenu / Vérification :**
-- **Difficultés rencontrées :**
-- **Statut :** ⬜ À faire
+- **Résultat obtenu / Vérification :*[voir le fichier GNS3](lab1-2 mini lab gns3.gns3project)*
+- **Difficultés rencontrées :**aucune
+- **Statut :** ✅ Terminé
 
 ## 🧩 Ajouter un nouveau lab
 ```
